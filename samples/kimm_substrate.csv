@@ -1,7 +1,6 @@
 batch_id,year_month,destination,qty_planned,qty_sent,sent_date,status,notes
 Donor_OMO_2603,2026-03,SKKU,5,5,2026-03-13,발송완료,
 Donor_2603,2026-03,파인랩,5,5,,발송예정,
-KM-SUB-004,2026-02,SKKU,5,5,2026-02-05,발송완료,
-KM-SUB-004,2026-02,파인랩,5,5,2026-02-05,발송완료,
-KM-SUB-005,2026-03,SKKU,5,0,,,계획중,
-KM-SUB-005,2026-03,파인랩,5,0,,,계획중,
+Donor_2604,2026-04,SKKU,5,0,,계획중,
+Donor_2605,2026-05,SKKU,5,0,,,계획중,
+Donor_2606,2026-06,파인랩,5,0,,,계획중,
