@@ -1,6 +1,6 @@
 batch_id,year_month,qd_source,qd_batch_ref,substrate_type,qty_planned,qty_transferred,qty_sent_to_nnfc,transfer_date,nnfc_sent_date,status,yield_pct,notes
 KM-TR-001,2026-04,SKKU,SK-001,8인치 백플레인,5,5,5,2026-04-00,2026-04-00,NNFC발송예정,,
-KM-TR-002,2026-04,파인랩,FL-001,8인치 백플레인,5,5,5,2026-04-00,2026-04-00,NNFC발송예정,,
+KM-TR-002,2026-04,파인랩,FL-001,8인치 백플레인,5,5,5,2026-04-00,2026-04-00,김현돈 박사 전달,,
 KM-TR-001,2026-05,SKKU,SK-001,8인치 백플레인,5,5,5,2026-05-00,2026-05-00,NNFC발송예정,,
 KM-TR-002,2026-05,파인랩,FL-001,8인치 백플레인,5,5,5,2026-05-00,2026-05-00,NNFC발송예정,,
 KM-TR-001,2026-06,SKKU,SK-001,8인치 백플레인,5,5,5,2026-06-00,2026-06-00,NNFC발송예정,,
